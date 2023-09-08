@@ -1,0 +1,37 @@
+.Contactcontainer {
+  text-align: justify;
+  padding: 100px 40px;
+  /* justify-content: flex-start; */
+  /* align-items: flex-start; */
+}
+
+.info {
+  /* margin-left: 100px; */
+  /* margin-right: 140px; */
+}
+.Contactcontainer h1{
+  font-size: 36px;
+  margin-bottom: 80px;
+  text-align: center;
+}
+
+.addresstitle {
+  font-size: 22px;
+  font-weight: bold;
+  margin: 0px;
+}
+
+.addresssubtitle {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.contact-item {
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+/* .map-container {
+  flex: 1;
+  height: 100%;
+} */
