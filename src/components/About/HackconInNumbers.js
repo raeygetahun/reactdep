@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import "./about.css";
 import { Grid } from "@mui/material";
 import useScrollHandler from "../../hooks/useScrollHandler";
-import logo12 from "../../assets/logo2.png";
+import logo12 from "../../assets/Artificial (5)_prev_ui.png";
 
 const Statistic = ({ number, text, index, isLineActive }) => {
   const [isActive, setIsActive] = useState(false);
@@ -64,7 +64,7 @@ const HackconInNumbers = () => {
           <img
             className={`logoForHackCon ${isLogoActive ? "active" : ""}`}
             src={logo12}
-            style={{ marginTop: "80px", height: "70%" }}
+            style={{ marginTop: "80px", height: "50%" }}
           />
         </Grid>
 

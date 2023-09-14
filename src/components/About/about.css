@@ -233,3 +233,9 @@
   transform: translateX(0); 
 }
 
+@media (max-width: 767px) {
+  .HackconInNumbersWrapper{
+    padding: 50px;
+  }
+}
+

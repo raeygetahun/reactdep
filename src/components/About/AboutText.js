@@ -24,7 +24,9 @@ const AboutText = () => {
               themselves in programming challenges, engaging tech talks,
               exciting games, and epic Nerf-gun battles. Our theme for the 9th
               edition of ConstructorHack is{" "}
-              <strong>Artificial Intelligence</strong>.
+              <strong>Artificial Intelligence</strong>. Join us on{" "}
+              <strong>November 18th-19th</strong> for an unforgettable
+              experience.
             </p>
             <br />
             <p>
@@ -36,10 +38,27 @@ const AboutText = () => {
             </p>
           </div>
         </Grid>
-        <Grid item md={6} xs={12} style={{ padding: "135px 75px" }} display={{ xs: "none", md: "block" }}>
+        <Grid
+          item
+          md={6}
+          xs={12}
+          style={{ padding: "135px 75px" }}
+          display={{ xs: "none", md: "block" }}
+        >
           <img src={oldpic3} />
         </Grid>
-        <Grid item md={6} xs={12} style={{ padding: "125px 35px", paddingRight: "35px", height: "600px", width:"800px"  }} display={{ xs: "block", md: "none" }}>
+        <Grid
+          item
+          md={6}
+          xs={12}
+          style={{
+            padding: "125px 35px",
+            paddingRight: "35px",
+            height: "600px",
+            width: "800px",
+          }}
+          display={{ xs: "block", md: "none" }}
+        >
           <img src={oldpic3} />
         </Grid>
       </Grid>

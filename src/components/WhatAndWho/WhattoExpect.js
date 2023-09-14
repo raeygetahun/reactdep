@@ -19,7 +19,7 @@ function WhattoExpect() {
         <Grid container spacing={3}>
           <Grid item md={6}>
             <p className="FirstParagraph">
-              ConstructorHack 2023 is more than just a hackathon – it's an
+              ConstructorHack 2023 is more than just a hackathon. It's an
               extraordinary community of developers, designers, and innovators.
               Our devoted team has crafted an event that combines challenges
               with inspiration, offering abundant opportunities for learning,

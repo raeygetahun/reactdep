@@ -81,9 +81,15 @@ const Team = () => {
       linkedinUserName: "khadija-soua-9a6282217/",
     },
     {
+      image: Sophie,
+      name: "Sophie Koester",
+      role: "Co-Head of Finance & Sponsors Team",
+      linkedinUserName: "",
+    },
+    {
       image: Timothy,
       name: "Timothy Ross B. Cabiles",
-      role: "Head of Finance & Sponsorship Team",
+      role: "Co-Head of Finance & Sponsorship Team",
       linkedinUserName: "",
     },
     {
@@ -132,12 +138,6 @@ const Team = () => {
       image: Manuela,
       name: "Manuela Jaramillo",
       role: "Member of the Finance & Sponsorship Team",
-      linkedinUserName: "",
-    },
-    {
-      image: Sophie,
-      name: "Sophie Koester",
-      role: "Member of Marketing Team",
       linkedinUserName: "",
     },
     {
