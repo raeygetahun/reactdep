@@ -38,7 +38,7 @@ function WhoCanParticpate() {
               and entrepreneurs! Click the button below to apply now.
               <br />
               <br />
-              <a className="applyWrapper" href="#">
+              <a className="applyWrapper" href="./signup">
                 Apply Now
               </a>
               <div className="applyarrowDirection">&#x1F862;</div>
