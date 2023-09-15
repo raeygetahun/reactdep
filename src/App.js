@@ -1,17 +1,17 @@
 import HomePage from "./pages/HomePage"
 import Registrstion from "./pages/Registration";
-import { BrowserRouter as Router, Route, Link, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Link, Routes } from "react-router-dom";
 import "./App.css";
 
 function App() {
   return (
-    <Router>
+    <BrowserRouter>
       <Routes>
         {/* The Router decides which component to show based on the current URL.*/}
-        <Route exact path="/" element={<HomePage/>}></Route>
+        <Route exact path="" element={<HomePage/>}></Route>
         <Route exact path="/signup" element={<Registrstion/>}></Route>
       </Routes>
-    </Router>
+    </BrowserRouter>
   );
 }
 export default App;
