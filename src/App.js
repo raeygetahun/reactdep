@@ -5,7 +5,7 @@ import "./App.css";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={"/"}>
       <Routes>
         {/* The Router decides which component to show based on the current URL.*/}
         <Route exact path="" element={<HomePage/>}></Route>
