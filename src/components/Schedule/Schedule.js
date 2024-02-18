@@ -34,7 +34,8 @@ const Schedule = () => {
   return (
     <div className="schedule-container">
       <h1 className="schedule-heading">SCHEDULE</h1>
-      <Grid container spacing={2}>
+      <div> For the event schedule please check back on the 13th of March</div>
+      {/* <Grid container spacing={2}>
       {scheduleData.map((day, index) => (
         <Grid item md={6} key={index}>
           <ul className="schedule-list">
@@ -48,7 +49,7 @@ const Schedule = () => {
           </ul>
         </Grid>
       ))}
-      </Grid>
+      </Grid> */}
     </div>
   );
 };

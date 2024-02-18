@@ -11,7 +11,7 @@ const Contact = () => {
           {/* <h2 className="addresstitle">ConstructorHack</h2> */}
           <h2 className="addresssubtitle">Contact Information:</h2>
           <p className="contact-item">Telephone: +40 770 140 123</p>
-          <p className="contact-item">Email: info@ConstructorHack.com</p>
+          <p className="contact-item">Email: team@constructorhack.com</p>
           <p className="contact-item">
             Address: Campus Ring 1, 28759 Bremen
           </p>

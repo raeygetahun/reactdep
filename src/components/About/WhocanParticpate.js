@@ -12,7 +12,7 @@ const WhocanParticpate = () => {
       </div>
       <div className="textdiv1">
         <p>Come join us and be a part of the next generation of innovators and entrepreneurs! Click the button below to apply now.</p>
-        <button className="button">Apply Now</button>
+        <button className="button">Pre-Register</button>
       </div>
     </div>
   )

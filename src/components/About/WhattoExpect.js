@@ -27,12 +27,12 @@ const WhattoExpect = () => {
       </div>
       <div className="textdiv">
         <p>
-          ConstructorHack 2023 is more than just a hackathon – it's an
+          ConstructorHack 2024 is more than just a hackathon – it's an
           extraordinary community of developers, designers, and innovators. Our
           devoted team has crafted an event that combines challenges with
           inspiration, offering abundant opportunities for learning,
           collaboration, and fun. No matter your experience level,
-          ConstructorHack 2023 is where you belong.
+          ConstructorHack 2024 is where you belong.
         </p>
         <p>
           Throughout the 24-hour hackathon, our lineup includes workshops, tech

@@ -51,10 +51,10 @@ const HackconInNumbers = () => {
   const isLogoActive = useScrollHandler("numbersgrid");
 
   const statisticsData = [
-    { number: "100", text: "PARTICIPANTS" },
+    { number: "300", text: "PARTICIPANTS" },
     { number: "24", text: "HOURS" },
     { number: "1000$", text: "TOTAL PRIZE" },
-    { number: "25", text: "PROJECTS" },
+    { number: "60", text: "PROJECTS" },
   ];
 
   return (

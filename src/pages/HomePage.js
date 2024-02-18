@@ -27,7 +27,7 @@ function HomePage() {
       {/* <Speakers /> */}
       <Schedule />
       <Partners />
-      <Team />
+      {/* <Team /> */}
       <FAQ />
       <Address />
       <Footer />

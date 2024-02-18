@@ -39,7 +39,7 @@ function WhoCanParticpate() {
               <br />
               <br />
               <a className="applyWrapper" href="https://constructorhack.onrender.com/">
-                Apply Now
+                Pre-register
               </a>
               <div className="applyarrowDirection">&#x1F862;</div>
             </p>
