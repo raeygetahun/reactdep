@@ -67,6 +67,6 @@
 
 .team-member:hover .name-overlay {
   opacity: 0.8;
-  background-color: rgb(233, 46, 46);
+  background-color: rgb(244, 198, 198);
   color: black;
 }
